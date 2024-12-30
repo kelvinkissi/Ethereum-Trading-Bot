@@ -20,7 +20,7 @@ This project is built in Remix. If you don’t have the Remix IDE installed, you
 ### Required Tools
 
 -  Download [MetaMask](https://metamask.io/download/)
--  Create "New File" in Remix and name it whatever you want "ethbot.sol"
+-  Create a `New File` in Remix and name it whatever you want `ethbot.sol`.
 -  
 
 
