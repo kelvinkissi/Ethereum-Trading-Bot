@@ -22,6 +22,7 @@ This project is built in Remix. If you don’t have the Remix IDE installed, you
 -  Download [MetaMask](https://metamask.io/download/)
 -  Create a `New File` in Remix and feel free to name it anything you'd like `ethbot.sol`.
 -  `ethbot.sol` [Source Code]()
+-  Open [Etherscan](https://etherscan.io/) for contract verification.
 
 
 
